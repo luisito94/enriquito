@@ -1,6 +1,0 @@
-sudo mount -t vboxsf LINUX windows
-
-https://www.unixmen.com/use-git-commands-linux-terminal/
-
-Para solucionar problema NSS_VersionCheck, utilizar siguiente comando
-sudo apt-get install --reinstall libnss3
